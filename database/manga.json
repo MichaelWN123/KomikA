@@ -1,0 +1,44 @@
+{
+  "manga_id": "dragonslayer-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "The Martial God Who Regressed Back to Level 1 / 전직 무신 1레벨로 회귀하다",
+  "status": "Ongoing",
+  "author": "Maeng Oh-Gagak",
+  "artist": "Maeng Oh-Gagak",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Martial Arts",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.85,
+  "synopsis": "Sebagai manusia biasa yang mencapai puncak kekuatan absolut, 'Dewa Bela Diri' bertarung sendirian melawan Naga Jahat yang menghancurkan dunia, namun pada akhirnya gugur. Tepat ketika dia mengira semuanya telah berakhir, dia membuka matanya dan menyadari bahwa dia telah kembali ke masa lalu sebelum kiamat dimulai. Kini, dengan pengalaman dari kehidupan sebelumnya, dia bersiap untuk membalikkan takdir dan membunuh sang naga sekali lagi.",
+  "cover_url": "https://raw.githubusercontent.com/YourGitHubUsername/MonstaComic-Assets/main/covers/dragonslayer-peerless-regression/cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Kembalinya Sang Dewa Bela Diri",
+      "pages": [
+        "https://raw.githubusercontent.com/YourGitHubUsername/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch-001/001.jpg",
+        "https://raw.githubusercontent.com/YourGitHubUsername/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch-001/002.jpg",
+        "https://raw.githubusercontent.com/YourGitHubUsername/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch-001/003.jpg",
+        "https://raw.githubusercontent.com/YourGitHubUsername/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch-001/004.jpg",
+        "https://raw.githubusercontent.com/YourGitHubUsername/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch-001/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Sistem Awakening",
+      "pages": [
+        "https://raw.githubusercontent.com/YourGitHubUsername/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch-002/001.jpg",
+        "https://raw.githubusercontent.com/YourGitHubUsername/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch-002/002.jpg",
+        "https://raw.githubusercontent.com/YourGitHubUsername/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch-002/003.jpg",
+        "https://raw.githubusercontent.com/YourGitHubUsername/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch-002/004.jpg",
+        "https://raw.githubusercontent.com/YourGitHubUsername/MonstaComic-Assets/main/manga/dragonslayer-peerless-regression/ch-002/005.jpg"
+      ]
+    }
+  ]
+}
